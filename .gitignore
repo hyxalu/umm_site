@@ -1,0 +1,5 @@
+db.sqlite3
+umm_site/__pycache__/*
+umm/__pycache__/*
+umm/migrations/*
+.idea/*
